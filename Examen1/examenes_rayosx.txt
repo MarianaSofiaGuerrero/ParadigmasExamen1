@@ -1,0 +1,2 @@
+m-30|mariana|2026|150|superior|bajo
+p-90|Santiago|2026|200|inferior|medio
